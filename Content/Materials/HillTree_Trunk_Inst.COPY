@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="HillTree_Trunk_Inst"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_19"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_19"
+   End Object
+   ParameterStateId=DCE97FC74435A22A53EE3DB8B02E33B7
+   Parent=MaterialInstanceConstant'"/Game/ExampleContent/ScriptExamples/PivotPainter2/Materials/Calm/HillTree_Branches.HillTree_Branches"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Opacity"),ParameterValue=1.000000,ExpressionGUID=A26AB59E4D888FF2A3505CAD9E81DD24)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Normalized Wind Direction X Axis"),ParameterValue=(R=0.000000,G=1.000000,B=0.000000,A=1.000000),ExpressionGUID=AEF2998A4CE2482D92A7A79A4AEF8E8A)
+   VectorParameterValues(1)=(ParameterInfo=(Name="Normalized Wind Direction Y Axis"),ParameterValue=(R=1.000000,G=0.000000,B=0.000000,A=1.000000),ExpressionGUID=B397A6E54542319C529E5593055A1B21)
+   BasePropertyOverrides=(bOverride_BlendMode=True,bOverride_ShadingModel=True,TwoSided=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=E4779A7046B5A9042AEFA2A191D2D9B4
+   ReferencedTextureGuids(1)=18AD0034473D801B60BEE7BF428ED6B2
+   ReferencedTextureGuids(2)=36A045724979439A3095B1B2B30E88BA
+   ReferencedTextureGuids(3)=898A4CD34F2EC63B66F16DB8D31616A1
+   ReferencedTextureGuids(4)=ADD2003E4F5B327684BA69835C10B082
+   ReferencedTextureGuids(5)=9D2BBFF445BBDE369F6A6E8CCAC3BCE4
+   StaticParameters=(StaticSwitchParameters=((ParameterInfo=(Name="True = Leaves, False = Trunk or Branches"),bOverride=True,ExpressionGUID=974BD5F642D92FF742262B8BCEF1D71C),(Value=True,ParameterInfo=(Name="True = Trunk, False = Thick Branches"),bOverride=True,ExpressionGUID=73A884A04EE79BF3167723995F057D8F)))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_19"'
+   LightingGuid=D4CF2B2F4081A163988155882FB022FD
+End Object

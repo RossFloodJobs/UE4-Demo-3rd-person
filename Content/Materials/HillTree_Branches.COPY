@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="HillTree_Branches"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_18"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_18"
+   End Object
+   ParameterStateId=8B2661974F9CE316A20617B37584DCD6
+   Parent=MaterialInstanceConstant'"/Game/ExampleContent/ScriptExamples/PivotPainter2/Materials/Calm/HillTree_Leaves.HillTree_Leaves"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Opacity"),ParameterValue=1.000000,ExpressionGUID=A26AB59E4D888FF2A3505CAD9E81DD24)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(bOverride_BlendMode=True,bOverride_ShadingModel=True,TwoSided=True,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=13DF9D424A00A712C5D732BFE564BFF3
+   ReferencedTextureGuids(1)=18AD0034473D801B60BEE7BF428ED6B2
+   ReferencedTextureGuids(2)=36A045724979439A3095B1B2B30E88BA
+   ReferencedTextureGuids(3)=898A4CD34F2EC63B66F16DB8D31616A1
+   ReferencedTextureGuids(4)=7FDC79B549EF8702D778D6994469FB27
+   StaticParameters=(StaticSwitchParameters=((ParameterInfo=(Name="True = Leaves, False = Trunk or Branches"),bOverride=True,ExpressionGUID=974BD5F642D92FF742262B8BCEF1D71C),(ParameterInfo=(Name="True = Trunk, False = Thick Branches"),bOverride=True,ExpressionGUID=73A884A04EE79BF3167723995F057D8F)))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_18"'
+   LightingGuid=ED9A487B49E8814E7E4613998396B187
+End Object

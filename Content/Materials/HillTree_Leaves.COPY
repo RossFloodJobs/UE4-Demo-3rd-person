@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="HillTree_Leaves"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   ParameterStateId=AB152C4748D5AEF75A5BACBD880A5580
+   Parent=MaterialInstanceConstant'"/Game/ExampleContent/ScriptExamples/PivotPainter2/Materials/Calm/HillTree_MasterInstance.HillTree_MasterInstance"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Opacity"),ParameterValue=0.050000,ExpressionGUID=A26AB59E4D888FF2A3505CAD9E81DD24)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(bOverride_BlendMode=True,bOverride_ShadingModel=True,TwoSided=True,BlendMode=BLEND_Masked,ShadingModel=MSM_TwoSidedFoliage,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=E9D715924E8964D8F30551A5BF1ABDD4
+   ReferencedTextureGuids(1)=18AD0034473D801B60BEE7BF428ED6B2
+   ReferencedTextureGuids(2)=36A045724979439A3095B1B2B30E88BA
+   ReferencedTextureGuids(3)=898A4CD34F2EC63B66F16DB8D31616A1
+   ReferencedTextureGuids(4)=F920711648D8CD32D41BBF9F0EA204D5
+   ReferencedTextureGuids(5)=E8C11266452823EC3AE946B7FC33D880
+   ReferencedTextureGuids(6)=307757E1458E615C7D97A39E32219707
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_1"'
+   LightingGuid=103DD1804171FCC2FD1292A695C11496
+End Object
